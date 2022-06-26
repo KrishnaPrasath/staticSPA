@@ -1,0 +1,2 @@
+# staticSPA
+A static SPA 
